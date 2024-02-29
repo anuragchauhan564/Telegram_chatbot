@@ -1,4 +1,4 @@
-#Telegram Bot
+# Telegram Bot
 ### teliBot_GPT_3.5_Turbo
 
 ## Prerequsites: 
